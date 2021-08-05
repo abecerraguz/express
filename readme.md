@@ -1,6 +1,6 @@
 # Apuntes de Express
 
-![Express](express.jpg)
+![Express](express.jpeg)
 
 
 ## Iniciando un proyecto
